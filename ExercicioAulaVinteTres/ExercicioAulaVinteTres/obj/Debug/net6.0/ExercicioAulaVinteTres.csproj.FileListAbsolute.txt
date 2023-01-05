@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\bin\Debug\net6.0\ExercicioAulaVinteTres.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\bin\Debug\net6.0\ExercicioAulaVinteTres.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\bin\Debug\net6.0\ExercicioAulaVinteTres.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\bin\Debug\net6.0\ExercicioAulaVinteTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\bin\Debug\net6.0\ExercicioAulaVinteTres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\refint\ExercicioAulaVinteTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ExercicioAulaVinteTres.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioAulaVinteTres\ExercicioAulaVinteTres\obj\Debug\net6.0\ref\ExercicioAulaVinteTres.dll

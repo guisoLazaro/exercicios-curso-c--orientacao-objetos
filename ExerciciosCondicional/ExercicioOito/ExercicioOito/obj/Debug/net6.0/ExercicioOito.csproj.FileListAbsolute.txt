@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\bin\Debug\net6.0\ExercicioOito.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\bin\Debug\net6.0\ExercicioOito.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\bin\Debug\net6.0\ExercicioOito.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\bin\Debug\net6.0\ExercicioOito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\bin\Debug\net6.0\ExercicioOito.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\refint\ExercicioOito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ExercicioOito.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioOito\ExercicioOito\obj\Debug\net6.0\ref\ExercicioOito.dll

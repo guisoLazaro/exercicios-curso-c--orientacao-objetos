@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\bin\Debug\net6.0\ExercicioSeisSeis.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\bin\Debug\net6.0\ExercicioSeisSeis.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\bin\Debug\net6.0\ExercicioSeisSeis.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\bin\Debug\net6.0\ExercicioSeisSeis.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\bin\Debug\net6.0\ExercicioSeisSeis.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\refint\ExercicioSeisSeis.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ExercicioSeisSeis.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioSeisSeis\ExercicioSeisSeis\obj\Debug\net6.0\ref\ExercicioSeisSeis.dll

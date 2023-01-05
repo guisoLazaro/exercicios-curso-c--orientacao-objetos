@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\bin\Debug\net6.0\ExercicioCingo.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\bin\Debug\net6.0\ExercicioCingo.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\bin\Debug\net6.0\ExercicioCingo.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\bin\Debug\net6.0\ExercicioCingo.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\bin\Debug\net6.0\ExercicioCingo.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\refint\ExercicioCingo.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ExercicioCingo.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioCingo\ExercicioCingo\obj\Debug\net6.0\ref\ExercicioCingo.dll

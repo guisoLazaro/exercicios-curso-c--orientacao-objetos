@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\refint\ExercicioQuatro.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosCondicional\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ref\ExercicioQuatro.dll

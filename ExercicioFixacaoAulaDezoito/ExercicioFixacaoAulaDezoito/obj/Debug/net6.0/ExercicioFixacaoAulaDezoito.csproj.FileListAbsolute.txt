@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\bin\Debug\net6.0\ExercicioFixacaoAulaDezoito.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\bin\Debug\net6.0\ExercicioFixacaoAulaDezoito.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\bin\Debug\net6.0\ExercicioFixacaoAulaDezoito.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\bin\Debug\net6.0\ExercicioFixacaoAulaDezoito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\bin\Debug\net6.0\ExercicioFixacaoAulaDezoito.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\refint\ExercicioFixacaoAulaDezoito.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ExercicioFixacaoAulaDezoito.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFixacaoAulaDezoito\ExercicioFixacaoAulaDezoito\obj\Debug\net6.0\ref\ExercicioFixacaoAulaDezoito.dll

@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\bin\Debug\net6.0\Exerciciotres.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\bin\Debug\net6.0\Exerciciotres.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\bin\Debug\net6.0\Exerciciotres.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\bin\Debug\net6.0\Exerciciotres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\bin\Debug\net6.0\Exerciciotres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\refint\Exerciciotres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\Exerciciotres.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\Exerciciotres\Exerciciotres\obj\Debug\net6.0\ref\Exerciciotres.dll

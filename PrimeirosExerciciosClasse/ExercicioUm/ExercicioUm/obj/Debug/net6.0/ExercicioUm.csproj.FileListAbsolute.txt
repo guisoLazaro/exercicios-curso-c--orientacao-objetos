@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\refint\ExercicioUm.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\PrimeirosExerciciosClasse\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ref\ExercicioUm.dll

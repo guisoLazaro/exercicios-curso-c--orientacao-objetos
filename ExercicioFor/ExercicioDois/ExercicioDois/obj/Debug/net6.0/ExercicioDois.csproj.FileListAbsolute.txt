@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\bin\Debug\net6.0\ExercicioDois.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\bin\Debug\net6.0\ExercicioDois.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\bin\Debug\net6.0\ExercicioDois.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\bin\Debug\net6.0\ExercicioDois.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\bin\Debug\net6.0\ExercicioDois.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\refint\ExercicioDois.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ExercicioDois.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioDois\ExercicioDois\obj\Debug\net6.0\ref\ExercicioDois.dll

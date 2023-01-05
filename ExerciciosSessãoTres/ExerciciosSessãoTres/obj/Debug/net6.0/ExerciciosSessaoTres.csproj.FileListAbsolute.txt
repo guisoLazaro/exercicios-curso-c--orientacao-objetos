@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\bin\Debug\net6.0\ExerciciosSessaoTres.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\bin\Debug\net6.0\ExerciciosSessaoTres.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\bin\Debug\net6.0\ExerciciosSessaoTres.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\bin\Debug\net6.0\ExerciciosSessaoTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\bin\Debug\net6.0\ExerciciosSessaoTres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\refint\ExerciciosSessaoTres.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ExerciciosSessaoTres.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosSessãoTres\ExerciciosSessãoTres\obj\Debug\net6.0\ref\ExerciciosSessaoTres.dll

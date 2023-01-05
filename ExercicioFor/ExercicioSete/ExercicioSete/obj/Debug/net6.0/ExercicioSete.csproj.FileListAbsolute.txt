@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\bin\Debug\net6.0\ExercicioSete.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\bin\Debug\net6.0\ExercicioSete.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\bin\Debug\net6.0\ExercicioSete.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\bin\Debug\net6.0\ExercicioSete.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\bin\Debug\net6.0\ExercicioSete.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\refint\ExercicioSete.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ExercicioSete.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioFor\ExercicioSete\ExercicioSete\obj\Debug\net6.0\ref\ExercicioSete.dll

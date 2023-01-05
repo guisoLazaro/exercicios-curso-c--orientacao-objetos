@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\bin\Debug\net6.0\ExercicioSequencial6.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\bin\Debug\net6.0\ExercicioSequencial6.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\bin\Debug\net6.0\ExercicioSequencial6.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\bin\Debug\net6.0\ExercicioSequencial6.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\bin\Debug\net6.0\ExercicioSequencial6.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\refint\ExercicioSequencial6.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ExercicioSequencial6.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioSequencial6\ExercicioSequencial6\obj\Debug\net6.0\ref\ExercicioSequencial6.dll

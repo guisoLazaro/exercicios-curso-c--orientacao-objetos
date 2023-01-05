@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\bin\Debug\net6.0\ExercicioCinco.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\bin\Debug\net6.0\ExercicioCinco.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\bin\Debug\net6.0\ExercicioCinco.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\bin\Debug\net6.0\ExercicioCinco.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\bin\Debug\net6.0\ExercicioCinco.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\refint\ExercicioCinco.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ExercicioCinco.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExercicioCinco\ExercicioCinco\obj\Debug\net6.0\ref\ExercicioCinco.dll
