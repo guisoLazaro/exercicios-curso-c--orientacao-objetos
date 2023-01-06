@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net6.0\ExMembrosEstaticos.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net6.0\ExMembrosEstaticos.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net6.0\ExMembrosEstaticos.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net6.0\ExMembrosEstaticos.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net6.0\ExMembrosEstaticos.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\refint\ExMembrosEstaticos.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ExMembrosEstaticos.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExerciciosFixacaoSessao4\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net6.0\ref\ExMembrosEstaticos.dll
