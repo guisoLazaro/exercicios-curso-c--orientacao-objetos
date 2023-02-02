@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\bin\Debug\net7.0\FuncionarioAumento.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\bin\Debug\net7.0\FuncionarioAumento.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\bin\Debug\net7.0\FuncionarioAumento.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\bin\Debug\net7.0\FuncionarioAumento.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\bin\Debug\net7.0\FuncionarioAumento.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\refint\FuncionarioAumento.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\FuncionarioAumento.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\FuncionarioAumento\obj\Debug\net7.0\ref\FuncionarioAumento.dll

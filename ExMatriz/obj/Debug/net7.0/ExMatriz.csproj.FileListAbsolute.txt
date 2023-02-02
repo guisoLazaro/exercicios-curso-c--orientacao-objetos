@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\bin\Debug\net7.0\ExMatriz.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\bin\Debug\net7.0\ExMatriz.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\bin\Debug\net7.0\ExMatriz.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\bin\Debug\net7.0\ExMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\bin\Debug\net7.0\ExMatriz.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\refint\ExMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ExMatriz.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\ExMatriz\obj\Debug\net7.0\ref\ExMatriz.dll

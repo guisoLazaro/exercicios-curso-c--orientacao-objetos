@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\bin\Debug\net7.0\DesafioMatriz.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\bin\Debug\net7.0\DesafioMatriz.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\bin\Debug\net7.0\DesafioMatriz.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\bin\Debug\net7.0\DesafioMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\bin\Debug\net7.0\DesafioMatriz.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\refint\DesafioMatriz.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\DesafioMatriz.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\DesafioMatriz\obj\Debug\net7.0\ref\DesafioMatriz.dll

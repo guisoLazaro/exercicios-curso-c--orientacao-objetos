@@ -1,0 +1,15 @@
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.csproj.AssemblyReference.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.AssemblyInfoInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.AssemblyInfo.cs
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.csproj.CoreCompileInputs.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\bin\Debug\net7.0\HospedagemHotem.exe
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\bin\Debug\net7.0\HospedagemHotem.deps.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\bin\Debug\net7.0\HospedagemHotem.runtimeconfig.json
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\bin\Debug\net7.0\HospedagemHotem.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\bin\Debug\net7.0\HospedagemHotem.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\refint\HospedagemHotem.dll
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.pdb
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\HospedagemHotem.genruntimeconfig.cache
+D:\Users\Guilherme\Documents\Cursos\C# completo orientação a objetos\Projetos\HospedagemHotel\obj\Debug\net7.0\ref\HospedagemHotem.dll
